@@ -44,4 +44,29 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+- README.md
+markdown
+  **README.md (Updated)**
+# PLP Bookstore MongoDB Project
+
+## Setup Instructions
+1. Install MongoDB Community Edition or create Atlas cluster
+2. Run the insertion script:
+   ```bash
+   mongosh insert_books.js
+Execute queries:
+
+bash
+mongosh queries.js
+Key Features
+Complete CRUD operations
+
+Advanced querying with projection/sorting
+
+Aggregation pipelines for data analysis
+
+Performance optimization with indexes
+
+Verification
+See included screenshot.png for database proof
