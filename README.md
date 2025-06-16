@@ -70,3 +70,13 @@ Performance optimization with indexes
 
 Verification
 See included screenshot.png for database proof
+README.md (My Instruction)
+# PLP Bookstore MongoDB Project
+
+## Setup Instructions
+1. Install MongoDB Community Edition or create Atlas cluster
+2. Run the insertion script:
+   ```bash
+   mongosh insert_books.js
+
+![image alt](WhatsApp Image 2024-04-08 at 14.50.05_23e4ee66.jpg)
